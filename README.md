@@ -6,9 +6,7 @@
 Using this video and notebook introduction will help you get started with numpy extremely rapidly.
 
 ## Companion Notebook
-[Lecture Notebook on Google Colab](https://colab.research.google.com/github/ryanorsinger/67-minutes-to-numpy/numpy_intro.ipynb)
+[Live Notebook on Google Colab](https://colab.research.google.com/github/ryanorsinger/67-Minutes-to-numpy/blob/main/numpy_intro.ipynb)
 
 ## Lesson Video
 - Video source: https://www.youtube.com/watch?v=tkB1m9BVoyI
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkB1m9BVoyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
